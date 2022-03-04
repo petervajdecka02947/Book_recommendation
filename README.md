@@ -1,2 +1,2 @@
 # Book_recommendation
-Experiment by creating primitive book recommendation system Using Bert and word2vec (not using words)
+Experiment by creating primitive book recommendation system using Bert and word2vec (no word applied)
